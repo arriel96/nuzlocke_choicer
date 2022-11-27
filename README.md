@@ -26,4 +26,7 @@ For remove the list of exclusives from the pokemonm edit the scrip and put a # o
 
 ![image](https://user-images.githubusercontent.com/22967917/204164149-66c6c1cf-0a6d-4b24-bb48-9a2227d6d487.png)
 
+The place there a find the encounter locations:
+https://bulbapedia.bulbagarden.net/wiki/Paldea#Geography
+
 Enjoy.
