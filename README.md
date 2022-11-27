@@ -15,4 +15,6 @@ If a find better material with the list off areas, possible enconters and spawn 
 
 With somoene has upgrade's or the material information better the one's that i use, please send me a spreadsheet from google docs and i coud try to use for a better scrip.
 
+About runnig the script, is just a simple python program, it's not soo hard to find a tutorial to run this scripts, it's a basic lerning program level.
+
 Enjoy.
