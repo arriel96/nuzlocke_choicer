@@ -1,9 +1,10 @@
 import random
 
-scarlet = ['Larvitar', 'Pupitar', 'Tyranitar', 'Drifloon', 'Drifblim', 'Stunky', 'Skuntank', 'Deino', 'Zweilous', 'Hydreigon', 'Skrelp', 'Dragalge', 'Oranguro', 'Stonjourner', 'Great Tusk', 'Brute Bonnet', 'Sandy Shocks', 'Scream Tail', 'Flutter Mane', 'Slither Wing', 'Roaring Moon', 'Armarouge', 'Koraidon']
-violet = ['Misdreavus', 'Gulpin', 'Swalot', 'Bagon', 'Shelgon', 'Salamence', 'Mismagius', 'Clauncher', 'Clawitzer', 'Passimian', 'Dreepy', 'Drakloak', 'Dragapult', 'Eiscue', 'Iron Treads', 'Iron Moth', 'Iron Hands', 'Iron Jugulis', 'Iron Thorns', 'Iron Bundle', 'Iron Valiant', 'Ceruledge', 'Miraidon']
+violet = ['Larvitar', 'Pupitar', 'Tyranitar', 'Drifloon', 'Drifblim', 'Stunky', 'Skuntank', 'Deino', 'Zweilous', 'Hydreigon', 'Skrelp', 'Dragalge', 'Oranguro', 'Stonjourner', 'Great Tusk', 'Brute Bonnet', 'Sandy Shocks', 'Scream Tail', 'Flutter Mane', 'Slither Wing', 'Roaring Moon', 'Armarouge', 'Koraidon']
+scarlet = ['Misdreavus', 'Gulpin', 'Swalot', 'Bagon', 'Shelgon', 'Salamence', 'Mismagius', 'Clauncher', 'Clawitzer', 'Passimian', 'Dreepy', 'Drakloak', 'Dragapult', 'Eiscue', 'Iron Treads', 'Iron Moth', 'Iron Hands', 'Iron Jugulis', 'Iron Thorns', 'Iron Bundle', 'Iron Valiant', 'Ceruledge', 'Miraidon']
 
-version = violet
+#version = violet
+#version = scarlet
 
 
 repeat = []
