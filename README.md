@@ -18,11 +18,11 @@ With somoene has upgrade's or the material information better the one's that i u
 About runnig the script, is just a simple python program, it's not soo hard to find a tutorial to run this scripts, it's a basic lerning program level.
 
 For remove the list of exclusives from the pokemonm edit the scrip and put a # on the version you don't have and remove # on the version you have. 
-#Example com me running violet:
+# Example com me running violet:
 
 ![image](https://user-images.githubusercontent.com/22967917/204164122-cad4344d-f6cf-4be4-a5d8-bc7b91d89dbf.png)
 
-#Final result:
+# Final result:
 
 ![image](https://user-images.githubusercontent.com/22967917/204164149-66c6c1cf-0a6d-4b24-bb48-9a2227d6d487.png)
 
